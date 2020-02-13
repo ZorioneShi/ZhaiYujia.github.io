@@ -1,0 +1,31 @@
+console.log(`
+`)
+
+console.log(`
+                veLoveLov           veLoveLov
+            eLoveLoveLoveLove   eLoveLoveLoveLove
+          veLoveLoveLoveLoveLoveLoveLoveLoveLoveLov
+         veLoveLoveLoveLoveLoveLoveLoveLoveLoveLoveL
+        veLoveLoveLoveLoveLoveLoveLoveLoveLoveLoveLov
+        eLoveLoveLoveLoveLoveLoveLoveLoveLoveLoveLove
+        LoveLoveLoveLoveLoveLoveLoveLoveLoveLoveLoveL
+        oveLoveLoveLoveLoveLoveLoveLoveLoveLoveLoveLo
+        veLoveLoveLoveLoveLoveLoveLoveLoveLoveLoveLov
+        eLoveLoveLoveLoveLoveLoveLoveLoveLoveLoveLove
+         oveLoveLoveLoveLoveLoveLoveLoveLoveLoveLove
+          eLoveLoveLoveLoveLoveLoveLoveLoveLoveLove
+          LoveLoveLoveLoveLoveLoveLoveLoveLoveLoveL
+            eLoveLoveLoveLoveLoveLoveLoveLoveLove
+             oveLoveLoveLoveLoveLoveLoveLoveLove
+              eLoveLoveLoveLoveLoveLoveLoveLove
+                veLoveLoveLoveLoveLoveLoveLov
+                  oveLoveLoveLoveLoveLoveLo
+                    LoveLoveLoveLoveLoveL
+                       LoveLoveLoveLov
+                          LoveLoveL
+                             Lov
+                              v
+    `)
+console.log(
+        `
+`)
